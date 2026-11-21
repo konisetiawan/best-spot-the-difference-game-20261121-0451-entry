@@ -1,6 +1,8 @@
 # Pasar Malam — Cari Bedanya!
 
-[![Make.fun bounty entry](https://make.fun/badge.svg?competition=best-spot-the-difference-game-20261121-0451)](https://make.fun/bounties/best-spot-the-difference-game-20261121-0451)
+[![make.fun · best-spot-the-difference-game-20261121-0451](https://make.fun/badge/best-spot-the-difference-game-20261121-0451.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![rank](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/konisetiawan/best-spot-the-difference-game-20261121-0451-entry/rank.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
+[![reward](https://make.fun/badge/best-spot-the-difference-game-20261121-0451/konisetiawan/best-spot-the-difference-game-20261121-0451-entry/reward.svg)](https://make.fun/bounty/best-spot-the-difference-game-20261121-0451?utm_source=github&utm_medium=readme&utm_campaign=best-spot-the-difference-game-20261121-0451)
 
 A cozy spot-the-difference game set across three Indonesian scenes: a lively night market, a sunny garden, and a tropical beach. Find seven small changes in each pair of hand-drawn Canvas pictures. Click either panel or use the keyboard; hints pulse a remaining difference, and tiny WebAudio tones reward finds and mark misses.
 
